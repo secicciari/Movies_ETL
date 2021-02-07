@@ -5,6 +5,7 @@ links.csv
 movies_metadata.csv
 ratings_small.csv
 ratings.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
